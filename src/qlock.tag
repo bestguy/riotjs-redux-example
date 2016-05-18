@@ -14,7 +14,7 @@ import qlock from './qlock_reducer.js';
 <span class={ on: time.h == 8 }>EIGHT</span><span class={ on: time.h == 11 }>ELEVEN</span>
 <span class={ on: time.h == 7 }>SEVEN</span><span class={ on: time.h == 0 }>TWELVE</span>
 <span class={ on: time.h == 10 }>TEN</span>SE<span class={ on: time.oclock }>OCLOCK</span>
-<span>{time.oneMinute ? '&bull;' : ' '}</span>  <span>{time.twoMinutes ? '&bull;' : ' '}</span>  <span>{time.threeMinutes ? '&bull;' : ' '}</span>  <span>{time.fourMinutes ? '&bull;' : ' '}</span>
+<span>{time.oneMinute ? '&bull;' : ' '}</span>  <span>{time.twoMinutes ? '&bull;' : ' '}</span>   <span>{time.threeMinutes ? '&bull;' : ' '}</span>  <span>{time.fourMinutes ? '&bull;' : ' '}</span>
 </pre>
 
 <style>
