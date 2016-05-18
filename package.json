@@ -1,0 +1,21 @@
+{
+  "name": "riot-redux-example",
+  "version": "0.0.1",
+  "description": "Example of webpack and riot",
+  "repository": "bestguy/riotjs-redux-example",
+  "main": "src/qlock.tag",
+  "author": "bestguy",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "html-loader": "^0.4.0",
+    "redux": "^3.5.2",
+    "riot": "^2.4.0",
+    "riotjs-loader": "^3.0.0",
+    "webpack": "^1.13.0"
+  }
+}
