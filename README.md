@@ -1,8 +1,9 @@
 # Riot.js and Redux example
 
 This is an example of [Riot.js](http://riotjs.com) tag using [Redux](https://github.com/reactjs/redux).
-Produces a Riot tag for a dynamic word clock:
+Produces a Riot tag for a dynamic ASCII word clock:
 
+![](./sample.png)
 
 ## Build
 
@@ -21,6 +22,3 @@ Minified tag script is in `dist/meet.js`
 ### Example:
 
     <qlock></qlock>
-
-
-[Demo](https://bestguy.github.io/riotjs-redux-example/)
