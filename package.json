@@ -1,9 +1,10 @@
 {
-  "name": "riot-redux-example",
+  "name": "riotjs-qlock",
   "version": "0.0.1",
   "description": "Example of webpack and riot",
   "repository": "bestguy/riotjs-redux-example",
-  "main": "src/qlock.tag",
+  "main": "dist/qlock.js",
+  "files": ["dist/qlock.js"],
   "author": "bestguy",
   "license": "MIT",
   "private": true,
